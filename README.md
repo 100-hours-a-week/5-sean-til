@@ -63,4 +63,4 @@
 
 ### [7월 3주, 15주] : Spring 및 docker 배포 공부 및 MURAKANO 프로젝트 QA
 - **24.07.15** - ( [🔗](july/7-15.md)) 코테스터디 및 MK 2차 QA
-
+- **24.07.17** - ( [🔗](july/7-17.md)) mk 프로젝트 문서 정리, Apache 와 Nginx
