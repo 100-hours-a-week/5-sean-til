@@ -78,4 +78,11 @@
 
 ### [8월 2주, 18주] : 최종 팀플 스프린트 2단위기간 시작
 - **24.08.12** - ( [🔗](agust/8-12.md)) amadeus flight api, log, singleton, responstEntity<>
+- **24.08.13** - ( [🔗](agust/8-13.md)) spring cron scheduler 공부
+- **24.08.14** - ( [🔗](agust/8-14.md)) amadeus 항공권 api 불러와서 redis 저장
+- **24.08.15** - ( [🔗](agust/8-15.md)) amadeus 항공권 api cron scheduler 적용, docker 공부
+- **24.08.16 ~ 24.08.18** - ( [🔗](agust/8-18.md)) 제주 ICT 해커톤 최우수상 수상
+
+
+
 
